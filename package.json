@@ -1,0 +1,18 @@
+{
+    "name": "grid",
+    "version": "1.0.2",
+    "description": "The best way to create JavaScript classes.",
+    "categories": [
+        "CSS and JavaScript system"
+    ],
+    "main": "grid.css",
+    "github": "https://github.com/kwetherill/grid",
+    "bugs": {
+        "web": "https://github.com/kwetherill/grid/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kwetherill/grid.git"
+    }
+}

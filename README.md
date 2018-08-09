@@ -1,4 +1,6 @@
 # Grid
 
-Powerful and simple grid system using CSS and JS.
+A simple, yet powerful, UI grid system built with LESS and JavaScript.
+
+
 
