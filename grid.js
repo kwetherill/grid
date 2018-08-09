@@ -1,6 +1,5 @@
 
 window.grid = (function(){
-	console.log("window.grid");
 
 	// members
 	var resizers = [],
@@ -58,14 +57,11 @@ window.grid = (function(){
 
 			// break points
 			for(var item in breaks) maxwidth = breaks1["grid-" + item] = breaks[item];
-			//for(var item in breaks) breaks1["grid-" + item] = breaks2["grid-" + item] = breaks[item];
-			//breaks2["grid-xl"] = true;
 
 			// update on resize?
 			on("resizedelay", update);
 
 			// init update
-			//console.log("TESTING");
 			update();
 		},
 
