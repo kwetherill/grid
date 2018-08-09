@@ -1,5 +1,3 @@
-/* BREAKPOINTS = {xm: 400, sm: 500, md: 600, lg: 800, xl: 1100}, */
-/* --- debug --- */
 .grid-debug:before,
 .grid-debug .grid-container:before {
   position: absolute !important;
@@ -281,10 +279,6 @@
   width: 10%;
 }
 /* show / hide */
-/* 
-SCREEN SIZES: 320, 480, 768, 1024
-BREAK POINTS: 400, 500, 600, 800, 1100, 1400
-*/
 /* --- defaults --- */
 .grid-1,
 .grid-2,
